@@ -1,8 +1,7 @@
-# Video For Email Templates
+# Introduction
 
-![Banner](docs/assets/img/banner.png)
-
-See our [documentation site](https://shrej.github.io/email-video/#/) for detailed installations steps.
+![Video for Email Templates](assets/img/banner.png)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fshrej%2Femail-video&hashtags=salesforcelabs,pardot)
 
 ## Features
 
@@ -22,3 +21,6 @@ See our [documentation site](https://shrej.github.io/email-video/#/) for detaile
 
 - Create a [GitHub issue](https://github.com/shrej/email-video/issues) for bug reports, feature requests, or questions
 - Add a ⭐️ [star on GitHub](https://github.com/shrej/email-video) or ❤️ [tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fshrej%2Femail-video&hashtags=salesforcelabs,pardot) to support the project!
+
+<!-- GitHub Buttons -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>

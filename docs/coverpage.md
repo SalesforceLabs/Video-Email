@@ -9,5 +9,5 @@
 - Customize the video play button
 
 [Get Started](quickstart)
-[Appexchange](https://appexchange.salesforce.com/)
+[Appexchange](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N4V00000Gou9VUAR)
 [GitHub](https://github.com/SalesforceLabs/Video-Email)

@@ -2,7 +2,7 @@
 
 ![Banner](docs/assets/img/banner.png)
 
-See our [documentation site](https://shrej.github.io/email-video/#/) for detailed installations steps.
+See our [documentation site](https://salesforcelabs.github.io/Video-Email/#/) for detailed installations steps.
 
 ## Features
 
@@ -20,5 +20,5 @@ See our [documentation site](https://shrej.github.io/email-video/#/) for detaile
 
 ## Contact & Support
 
-- Create a [GitHub issue](https://github.com/shrej/email-video/issues) for bug reports, feature requests, or questions
-- Add a ⭐️ [star on GitHub](https://github.com/shrej/email-video) or ❤️ [tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fshrej%2Femail-video&hashtags=salesforcelabs,pardot) to support the project!
+- Create a [GitHub issue](https://github.com/SalesforceLabs/Video-Email/issues) for bug reports, feature requests, or questions
+- Add a ⭐️ [star on GitHub](https://github.com/SalesforceLabs/Video-Email)

@@ -1,10 +1,10 @@
 {
-  "name": "email-video",
+  "name": "video-email",
   "author": "Shreyans Jain",
   "license": "BSD-3-Clause",
   "private": true,
   "version": "1.0.0",
-  "description": "A lightning web component that allows you to easily add Videos to your Lighnting Email Templates",
+  "description": "A lightning web component that allows you to easily add Videos to your Lightning Email Templates",
   "scripts": {
     "lint": "npm run lint:lwc",
     "lint:lwc": "eslint force-app/main/default/lwc",

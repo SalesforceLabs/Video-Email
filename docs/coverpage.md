@@ -10,4 +10,4 @@
 
 [Get Started](quickstart)
 [Appexchange](https://appexchange.salesforce.com/)
-[GitHub](https://github.com/shrej/email-video)
+[GitHub](https://github.com/SalesforceLabs/Video-Email)

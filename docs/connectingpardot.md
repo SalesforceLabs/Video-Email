@@ -59,4 +59,4 @@ Now that we have authenticated Pardot, the last step is to provide our Business 
 1. Leave the Pardot Environment field as _Demo_ if you are connected to Pardot Demo Environment. Change it to Production only if you are connecting to the production environment.
 1. Congratulations! You have connected the component with Pardot successfully.
 
-## [Create a GitHub issue](https://github.com/shrej/email-video/issues) for bug reports, feature requests, or questions.
+## [Create a GitHub issue](https://github.com/SalesforceLabs/Video-Email/issues) for bug reports, feature requests, or questions.
